@@ -17,17 +17,17 @@
 		"Timeout": 5,
 		"ShowLog": false
 	},
-	"PsiphonCore": 8,
+	"PsiphonCore": 20,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
-		"Region": "SG",
+		"Region": "VN",
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
 			"FRONTED-MEEK-OSSH"
 		],
 		"TunnelWorkers": 8,
-		"KuotaDataLimit": 3,
+		"KuotaDataLimit": 1,
 		"Authorizations": []
 	}
 }
