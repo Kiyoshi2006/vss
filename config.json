@@ -17,7 +17,7 @@
 		"Timeout": 5,
 		"ShowLog": false
 	},
-	"PsiphonCore": 20,
+	"PsiphonCore": 50,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
