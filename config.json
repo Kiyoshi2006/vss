@@ -17,7 +17,7 @@
 		"Timeout": 0,
 		"ShowLog": false
 	},
-	"PsiphonCore": 4,
+	"PsiphonCore": 12,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
@@ -25,7 +25,9 @@
                         "SG",
 			"CN",
 			"JP",
-			"VN"
+			"VN",
+			"US",
+			"UK"
                           ],
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
