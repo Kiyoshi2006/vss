@@ -24,10 +24,6 @@
 		"Region": [
                         "SG",
 			"CN",
-			"JP",
-			"VN",
-			"US",
-			"UK"
                           ],
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
