@@ -29,6 +29,7 @@
 			"FRONTED-MEEK-OSSH"
 		],
 		"TunnelWorkers": 8,
+		"KuotaDataLimit": 0,
 		"Authorizations": []
 	}
 }
