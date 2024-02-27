@@ -14,23 +14,21 @@
 		"Payload": "",
 		"ServerNameIndication": "",
 		"MeekType": 2,
-		"Timeout": 0,
+		"Timeout": 2,
 		"ShowLog": false
 	},
-	"PsiphonCore": 6,
+	"PsiphonCore": 2,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
 		"Region": [
-                        "SG",
-			"JP",
-			"CN"
+                        "SG"
                           ],
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
 			"FRONTED-MEEK-OSSH"
 		],
-		"TunnelWorkers": 6,
+		"TunnelWorkers": 2,
 		"Authorizations": []
 	}
 }
