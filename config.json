@@ -23,7 +23,7 @@
 		"Tunnel": 1,
 		"Region": [
                         "SG",
-			"CN",
+			"CN"
                           ],
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
