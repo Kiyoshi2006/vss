@@ -20,7 +20,7 @@
 	"PsiphonCore": 50,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
-		"Tunnel": 2,
+		"Tunnel": 1,
 		"Region": [
                         "SG",
                         "JP"
