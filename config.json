@@ -22,7 +22,8 @@
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
 		"Region": [
-                        "SG"
+                        "SG",
+			"CN"
                           ],
 		"Protocols": [
 			"FRONTED-MEEK-HTTP-OSSH",
