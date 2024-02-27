@@ -13,8 +13,8 @@
 		},
 		"Payload": "",
 		"ServerNameIndication": "",
-		"MeekType": 0,
-		"Timeout": 0,
+		"MeekType": 2,
+		"Timeout": 1,
 		"ShowLog": false
 	},
 	"PsiphonCore": 12,
