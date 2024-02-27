@@ -28,7 +28,7 @@
 			"FRONTED-MEEK-HTTP-OSSH",
 			"FRONTED-MEEK-OSSH"
 		],
-		"TunnelWorkers": 2,
+		"TunnelWorkers": 4,
 		"Authorizations": []
 	}
 }
