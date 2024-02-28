@@ -14,7 +14,7 @@
 		"Payload": "",
 		"ServerNameIndication": "",
 		"MeekType": 2,
-		"Timeout": 0,
+		"Timeout": 1,
 		"ShowLog": true
 	},
 	"PsiphonCore": 8,
