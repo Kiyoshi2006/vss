@@ -15,9 +15,9 @@
 		"ServerNameIndication": "",
 		"MeekType": 0,
 		"Timeout": 0,
-		"ShowLog": true
+		"ShowLog": false
 	},
-	"PsiphonCore": 8,
+	"PsiphonCore": 16,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
 		"Tunnel": 1,
@@ -28,7 +28,7 @@
 			"FRONTED-MEEK-HTTP-OSSH",
 			"FRONTED-MEEK-OSSH"
 		],
-		"TunnelWorkers": 4,
+		"TunnelWorkers": 8,
 		"KuotaDataLimit": 1,
 		"Authorizations": []
 	}
