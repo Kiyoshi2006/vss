@@ -13,14 +13,14 @@
 		},
 		"Payload": "",
 		"ServerNameIndication": "",
-		"MeekType": 0,
-		"Timeout": 4,
+		"MeekType": 2,
+		"Timeout": 0,
 		"ShowLog": true
 	},
 	"PsiphonCore": 4,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
-		"Tunnel": 2,
+		"Tunnel": 1,
 		"Region": [
                         "SG"
                           ],
