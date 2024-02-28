@@ -1,6 +1,6 @@
 # Android cài đặt (Termux)
 
-    pkg install git && git clone https://github.com/Kiyoshi2006/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
+    pkg install git-y && git clone https://github.com/Kiyoshi2006/vss.git && clear && cd vss && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/vss"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd && t
 
 # Android cài đặt 2
 
