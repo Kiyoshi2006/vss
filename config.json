@@ -13,7 +13,7 @@
 		},
 		"Payload": "",
 		"ServerNameIndication": "",
-		"MeekType": 2,
+		"MeekType": 0,
 		"Timeout": 0,
 		"ShowLog": true
 	},
