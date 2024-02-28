@@ -14,13 +14,13 @@
 		"Payload": "",
 		"ServerNameIndication": "",
 		"MeekType": 0,
-		"Timeout": 0,
+		"Timeout": 4,
 		"ShowLog": true
 	},
-	"PsiphonCore": 8,
+	"PsiphonCore": 4,
 	"Psiphon": {
 		"CoreName": "psiphon-tunnel-core",
-		"Tunnel": 4,
+		"Tunnel": 2,
 		"Region": [
                         "SG"
                           ],
@@ -28,7 +28,7 @@
 			"FRONTED-MEEK-HTTP-OSSH",
 			"FRONTED-MEEK-OSSH"
 		],
-		"TunnelWorkers": 16,
+		"TunnelWorkers": 8,
 		"KuotaDataLimit": 1,
 		"Authorizations": []
 	}
