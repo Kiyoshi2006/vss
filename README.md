@@ -9,6 +9,10 @@
 # Android chạy lệnh (Termux)
 
    tun
+
+   t
+
+   n
 # Android xóa (Termux)
 
    rm -rf vss
